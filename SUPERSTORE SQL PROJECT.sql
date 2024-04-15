@@ -64,3 +64,21 @@ SELECT
     END AS STATUS
 FROM superstore_canada;
 
+/* Top 5 customer with maximum profit */
+  select `Customer Name`,sum(Profit),
+  rank() over(order by sum(Profit) desc) as "profit_rank"
+  from superstore_canada
+  group by `Customer Name`
+  limit 5;  
+
+
+ /* Top 5 Customer Name  based on Sales*/
+ 
+ show tables;
+ select * from superstore_canada; 
+ 
+ select `Customer Name`,sum(sales),
+  rank() over(order by sum(sales) desc) as "sales_rank"
+  from superstore_canada
+  group by `Customer Name`
+  limit 5; 
