@@ -2,19 +2,19 @@
 # About 
 The Superstore dataset contains essential information about orders, including order details, customer information, and product specifics. It offers valuable insights for analyzing sales, profit, and customer behavior. This dataset is beneficial for retail analysts and professionals looking to optimize business operations and improve customer satisfaction.
  # Features:
-Customer Segment: Segment of customers to which the product is targeted, helping in understanding customer preferences and behavior.
+• Customer Segment: Segment of customers to which the product is targeted, helping in understanding customer preferences and behavior.
 
-Product Category: Broad category of the product, providing a high-level classification of the items.
+• Product Category: Broad category of the product, providing a high-level classification of the items.
 
-Product Sub-Category: Specific sub-category of the product, offering more detailed information about the item.
+• Product Sub-Category: Specific sub-category of the product, offering more detailed information about the item.
 
-Product Name: Name or title of the product, identifying the specific product within its category and sub-category.
+• Product Name: Name or title of the product, identifying the specific product within its category and sub-category.
 
-Product Container: Type of container or packaging used for the product, influencing shipping and storage requirements.
+• Product Container: Type of container or packaging used for the product, influencing shipping and storage requirements.
 
-Product Base Margin: Base profit margin for the product, indicating its profitability compared to its cost.
+• Product Base Margin: Base profit margin for the product, indicating its profitability compared to its cost.
 
-Ship Date: Date when the product was shipped, tracking the timeline of product delivery.
+• Ship Date: Date when the product was shipped, tracking the timeline of product delivery.
 
 
 
