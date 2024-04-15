@@ -76,10 +76,13 @@ The dataset from Superstore provides comprehensive insights for business analyst
 10.	Unit price and sales and profit based on product category?
 	
 11.	Product categorized based upon profit and loss?
+
+
+#FOR CODE FOLLOW THIS LINK : https://github.com/pantamit2003/SUPERSTORE-SQL/blob/main/SUPERSTORE%20SQL%20PROJECT.sql
 	
-12.	Top 5 Customer Name  based on Sales?
+13.	Top 5 Customer Name  based on Sales?
 	
-13.	Top 5 customer with maximum profit?
+14.	Top 5 customer with maximum profit?
    
 
 # code 
