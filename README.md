@@ -2,26 +2,27 @@
 # About 
 The Superstore dataset contains essential information about orders, including order details, customer information, and product specifics. It offers valuable insights for analyzing sales, profit, and customer behavior. This dataset is beneficial for retail analysts and professionals looking to optimize business operations and improve customer satisfaction.
  # Features:
-• Customer Segment: Segment of customers to which the product is targeted, helping in understanding customer preferences and behavior.
-
-• Product Category: Broad category of the product, providing a high-level classification of the items.
-
-• Product Sub-Category: Specific sub-category of the product, offering more detailed information about the item.
-
-• Product Name: Name or title of the product, identifying the specific product within its category and sub-category.
-
-• Product Container: Type of container or packaging used for the product, influencing shipping and storage requirements.
-
-• Product Base Margin: Base profit margin for the product, indicating its profitability compared to its cost.
-
-• Ship Date: Date when the product was shipped, tracking the timeline of product delivery.
-
-
-
-
-
-
-
+•	Row ID: Unique identifier for each row in the dataset, used for reference and identification.
+•	Order ID: Unique identifier for each order, enabling tracking and management of orders.
+•	Order Date: Date when the order was placed, providing a timeline for order processing and fulfillment.
+•	Order Priority: Priority assigned to the order, indicating its urgency or importance in the order processing workflow.
+•	Order Quantity: Quantity of products ordered in each order, helping in inventory management and order fulfillment.
+•	Sales: Total sales amount for each order, indicating the revenue generated from the order.
+•	Discount: Discount applied to the order, affecting the total sales amount.
+•	Ship Mode: Mode of shipment chosen for the order, influencing shipping costs and delivery times.
+•	Profit: Profit generated from each order, calculated as the difference between sales and cost.
+•	Unit Price: Price of each unit of the product ordered, providing pricing information for individual products.
+•	Shipping Cost: Cost of shipping for each order, affecting the total cost of the order.
+•	Customer Name: Name of the customer placing the order, used for customer identification and communication.
+•	Province: Province where the customer is located, providing geographical information about the customer.
+•	Region: Region where the customer is located, providing geographical information about the customer.
+•	Customer Segment: Segment to which the customer belongs, aiding in customer segmentation and targeting.
+•	Product Category: Category to which the product belongs, providing a high-level classification of the product.
+•	Product Sub-Category: Sub-category to which the product belongs, providing more detailed information about the product.
+•	Product Name: Name or description of the product ordered, identifying the specific product within its category and sub-category.
+•	Product Container: Type of container or packaging used for the product, influencing shipping and storage requirements.
+•	Product Base Margin: Base profit margin for the product, indicating its profitability compared to its cost.
+•	Ship Date: Date when the order was shipped, providing information about order fulfillment and delivery times.
 
 # Purpose:
 The dataset from Superstore provides comprehensive insights for business analysts, researchers, and professionals. It enables users to analyze the performance of the Superstore across various dimensions. The data can be used to determine the total profit of the Superstore, analyze profit by product category and sub-category, track the number of orders returned, and identify top customers based on sales. Additionally, users can understand sales and profit trends over time by analyzing data by order date. The dataset also allows for region-wise analysis and provides insights into customer segments. Furthermore, users can categorize products based on profit and loss, aiding in strategic decision-making.
